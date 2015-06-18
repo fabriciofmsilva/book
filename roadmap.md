@@ -19,13 +19,19 @@ Front-end
 ----------
 
 - HTML
+    - SVG 
 - CSS
 - JavaScript
+    - ES6
     - jQuery
-    - AngularJS
+    - Angular.JS
+    - React
+    - D3.JS
 - AJAX
     - JSON
-- Web Mobile
+- Web Design Responsivo
+    - Mobile First
+    - Web Mobile
 - Performance
 - Acessibilidade
 - Pre-processadores
@@ -76,3 +82,6 @@ Others
 - Deploy
 - HTTP
 - DevOps
+- SysAdmin
+- Agile
+- Segurança
