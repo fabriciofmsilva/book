@@ -45,6 +45,10 @@ O `<!doctype html>` é uma declaração, não é uma tag HTML, mas sim uma instr
 
 Todo documento HTML deve começar com a tag `<html>` é nele onde vamos inserir todas as outras tags.
 
-Na tag `<head>` é onde vamos inserir todas as nossas meta informações. Esses informações não farão parte do nosso conteúdo em si.
+Na tag `<head>` é onde vamos inserir todas as nossas meta informações. Esses informações não farão parte do nosso conteúdo em si, mas servirão para o navegador.
+
+Dentro da tag `<head>` temos a tag `<meta>`, no nosso caso com o atributo `charset="utf-8"`, as tags `<meta>` são tags onde vamos inserir metainformações. Dependendo do atributo podemos ter vários tipos de metainformações. No caso do atributo `charset` estamos dizendo o tipo de codificação que queremos que o navegador renderize nossos textos.
+
+Ainda temos a tag `<title>`, nela é onde vamos dizer ao navegador o título da nossa página. Esse título é exibido na aba do navegador.
 
 É na tag `<body>` onde a magia acontece. É lá onde vamos inserir todos os nossos elementos que serão interpretados pelo navegador e mostrados para o usuário.
