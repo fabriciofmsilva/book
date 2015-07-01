@@ -1,0 +1,50 @@
+- Dynamic web applications
+- Real-time
+- Scalable
+- High performance
+- Rich interfaces
+- Single Page Web Application (SPA)
+- JavaScript
+- User Experience
+- Tools
+- Frameworks
+- Full-stack
+- NodeJs
+- MongoDB
+- RESTFul API
+- WebStorm
+- HTML
+- CSS
+- MVC/MVVM/MVP
+- MEAN Stack
+- Create, read, update, delete (CRUD)
+- Ajax
+- HTML templates
+- MVC Architecture
+- Presentation Model (PM)
+- Model View Presenter (MVP)
+- Model View Controller (MVC)
+- Model View ViewModel (MVVM)
+- User Interface
+- Business logic
+- Behaviour
+- DurandalJS
+- Kando UI
+- EmberJS
+- AngularJS
+- KnockoutJS
+- BackboneJS
+- Router
+- Collections
+- Events
+- Sync
+- Handlebars
+- Underscores
+- Bootbox
+- jQuery
+- Rivets
+- MeteorJS
+- ThoraxJS
+- ExpressJS
+- Jade
+-

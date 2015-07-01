@@ -1,0 +1,4 @@
+- http://martinfowler.com/ eaaDev/PresentationModel.html
+- http://blogs.msdn.com/b/johngossman/archive/2005/10/08/478683.aspx
+- http://msdn.microsoft.com/en-us/magazine/dd419663.aspx
+- 

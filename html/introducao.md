@@ -4,7 +4,11 @@ HTML
 O que é o HTML?
 ----------
 
-HTML é a abreviação para HyperText Markup Language (Linguagem de Marcação e HiperTexto). Como o próprio nome diz ela serve para marcar conteudo (adicionando semântica ao conteudo) e adicionar ligações (*links*) entre documentos.
+HTML é a abreviação para HyperText Markup Language (Linguagem de Marcação e HiperTexto). Como o próprio nome diz ela serve para marcar conteudo (adicionar semântica ao conteudo) e adicionar ligações (*links*) entre documentos.
+
+Atualmente HTML é a linguagem mais utilizada na Web para desenvolver páginas e applicações Web. O HTML foi criado em 1991 pelo Sir Tim Berners-Lee no CERN.
+
+Se você quer se aventurar no mundo de desenvolvimento Web HTML é o ponto de partida. Como disse Diego Eis <q cite="http://www.casadocodigo.com.br/products/livro-guia-frontend">tudo começa e termina no HTML</q>.
 
 
 Criando nossa primeira página
