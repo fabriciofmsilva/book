@@ -56,3 +56,48 @@ Dentro da tag `<head>` temos a tag `<meta>`, no nosso caso com o atributo `chars
 Ainda temos a tag `<title>`, nela é onde vamos dizer ao navegador o título da nossa página. Esse título é exibido na aba do navegador.
 
 É na tag `<body>` onde a magia acontece. É lá onde vamos inserir todos os nossos elementos que serão interpretados pelo navegador e mostrados para o usuário.
+
+
+Elementos HTML
+-----------
+
+Um elemento HTML é formado por uma *tag* de abertura, seu conteúdo e uma *tag* de fechamento. Porém existem algumas exceções onde não existe a *tag* de fechamento, esses elementos são chamados de vazios. Segue um exemplo de um elemento:
+
+```html
+<tag>Conteúdo do elemento</tag>
+<tag-vazia atributo="conteudo do atributo" />
+```
+
+
+Tags HTML
+----------
+
+Uma *tag* HTML é formada por `<`, seu nome, atributos e `>`, é a partir das *tags* que damos semântica ao conteúdo do HTML.
+
+Abra novamento o arquivo `index.html` e vamos inserir algumas *tags* nele:
+
+```html
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Minha página</title>
+    </head>
+    <body>
+        <header>
+            <h1>Olá mundo.</h1>
+        </header>
+
+        <main>
+            <h1>Meu primeiro HTML.</h1>
+            <p>Seja bem-vindo ao meu primeiro HTML.</p>
+        </main>
+    
+        <footer>
+            <small>&copy; Fabrício Silva</small>
+        </footer>
+    </body>
+</html>
+```
+
+Nesse exemplo começamos a estruturar o nosso HTML. Mais para a frente vamos entender as principais *tags* HTML. Por enquanto basta saber que adicionamos um cabeçalho (`<header>`), um conteúdo principal (`<main>`) e um rodapé (`<footer>`) a nossa página.
