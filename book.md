@@ -1,8 +1,35 @@
-HTML
+Book
 ==========
 
-O que é o HTML?
+Editores de Texto
 ----------
+
+Um editor de texto é onde você vai passar a maior parte do tempo. Depois do seu conhecimento e experiência para mim é a ferramenta mais importante. Ter dominio das *features* que um editor de texto tem é fundamental para melhorar a produtividade de qualquer desenvolvedor.
+
+Para desenvolvermos nossas aplicações precisamos de um bom editor de texto. Aqui não vale usar um editor de texto rico como o **Word** da Microsoft ou o **Pages** da Apple, pois eles adicionam `meta tags` para formatar o texto e elas atrapalham nosso código.
+
+No mercado temos muitas opções de editores de texto.
+
+
+
+### Sobre os WYSIWYG
+
+Existem alguns editores do tipo <abbr title="What You See Is What You Get">WYSIWYG</abbr>, mas vamos evitar eles.
+
+
+
+### Sobre IDE
+
+Por enquanto vamos evitar o uso de IDEs também.
+
+
+
+
+
+HTML
+----------
+
+### O que é o HTML?
 
 HTML é a abreviação para HyperText Markup Language (Linguagem de Marcação e HiperTexto). Como o próprio nome diz ela serve para marcar conteudo (adicionar semântica ao conteudo) e adicionar ligações (*links*) entre documentos.
 
@@ -11,8 +38,8 @@ Atualmente HTML é a linguagem mais utilizada na Web para desenvolver páginas e
 Se você quer se aventurar no mundo de desenvolvimento Web HTML é o ponto de partida. Como disse Diego Eis <q cite="http://www.casadocodigo.com.br/products/livro-guia-frontend">tudo começa e termina no HTML</q>.
 
 
-Criando nossa primeira página
-----------
+
+### Criando nossa primeira página
 
 Vamos criar a nossa primeira página HTML. Para isso crie um documento com o nome e extensão `index.html` e nele insira o conteúdo:
 
@@ -23,8 +50,8 @@ Meu primeiro HTML.
 Abra o arquivo no seu navegador favorito (recomendo usar o [Firefox](https://www.mozilla.org/firefox/)) e veja o que acontece. O navegador exibiu o texto que escrevemos.
 
 
-Estrutura básica
-----------
+
+### Estrutura básica
 
 Altere o arquivo `index.html` com a seguinte estrutura. Aqui o importante é digitar todas as linhas para ir praticando a sintaxe do HTML.
 
@@ -58,8 +85,8 @@ Ainda temos a tag `<title>`, nela é onde vamos dizer ao navegador o título da 
 É na tag `<body>` onde a magia acontece. É lá onde vamos inserir todos os nossos elementos que serão interpretados pelo navegador e mostrados para o usuário.
 
 
-Elementos HTML
------------
+
+### Elementos HTML
 
 Um elemento HTML é formado por uma *tag* de abertura, seu conteúdo e uma *tag* de fechamento. Porém existem algumas exceções onde não existe a *tag* de fechamento, esses elementos são chamados de vazios. Segue um exemplo de um elemento:
 
@@ -69,8 +96,8 @@ Um elemento HTML é formado por uma *tag* de abertura, seu conteúdo e uma *tag*
 ```
 
 
-Tags HTML
-----------
+
+### Tags HTML
 
 Uma *tag* HTML é formada por `<`, seu nome, atributos e `>`, é a partir das *tags* que damos semântica ao conteúdo do HTML.
 
@@ -101,3 +128,23 @@ Abra novamento o arquivo `index.html` e vamos inserir algumas *tags* nele:
 ```
 
 Nesse exemplo começamos a estruturar o nosso HTML. Mais para a frente vamos entender as principais *tags* HTML. Por enquanto basta saber que adicionamos um cabeçalho (`<header>`), um conteúdo principal (`<main>`) e um rodapé (`<footer>`) a nossa página.
+
+
+
+
+
+CSS
+----------
+
+### O que é CSS?
+
+CSS é a abreviação para Cascading Style Sheet. Ela é uma linguagem de folhas de estilo utilizada para estilizar documento HTML.
+
+
+
+
+
+JavaScript
+----------
+
+JavaScript é uma linguagem de programação.
