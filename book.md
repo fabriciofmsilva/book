@@ -1,6 +1,17 @@
 Book
 ==========
 
+Desenvolvimento Front-End
+----------
+
+Atualmente o desenvolvimento Front-End para Web é baseado em três tecnologias, o HTML, o CSS e o JavaScript. Junto os três é possivel criar desde Web Sites até aplicações Web.
+
+Aqui vemos o primeiro conceito de separação de responsabilidades, o HTML é o responsável pela estrutura do conteudo. Já o CSS é o responsável pelo estilo do conteúdo, e o JavaScript é o responsável pelos comportamentos.
+
+
+
+
+
 Editores de Texto
 ----------
 
@@ -31,9 +42,9 @@ HTML
 
 ### O que é o HTML?
 
-HTML é a abreviação para HyperText Markup Language (Linguagem de Marcação e HiperTexto). Como o próprio nome diz ela serve para marcar conteudo (adicionar semântica ao conteudo) e adicionar ligações (*links*) entre documentos.
+HTML é a abreviação para HyperText Markup Language (Linguagem de Marcação e HiperTexto). Como o próprio nome diz ela serve para marcar conteudo (adicionar semântica) e adicionar ligações (*links*) entre documentos.
 
-Atualmente HTML é a linguagem mais utilizada na Web para desenvolver páginas e applicações Web. O HTML foi criado em 1991 pelo Sir Tim Berners-Lee no CERN.
+Atualmente HTML é a linguagem mais utilizada na Web para desenvolver páginas e applicações Web. O HTML foi criado por volta de 1991 pelo Sir Tim Berners-Lee no CERN. O HTML foi baseado em SGML (Standard Generalized Markup Language).
 
 Se você quer se aventurar no mundo de desenvolvimento Web HTML é o ponto de partida. Como disse Diego Eis <q cite="http://www.casadocodigo.com.br/products/livro-guia-frontend">tudo começa e termina no HTML</q>.
 
