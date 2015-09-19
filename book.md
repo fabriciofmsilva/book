@@ -34,6 +34,33 @@ Existem alguns editores do tipo <abbr title="What You See Is What You Get">WYSIW
 Por enquanto vamos evitar o uso de IDEs também.
 
 
+### Vim e Emacs
+
+Aqui vou falar sobre editores de linha de commando.
+
+
+
+
+
+Linha de Comando (CLI -> Command-line Interface)
+----------
+
+`pwd`, `ls`, `ls -a`, `mkdir [dir]`, `cd [dir]`, `touch [file]`, `cp`, `mv`, `rmdir`, `cat`, `less`.
+
+
+
+
+
+Controle de Versão
+----------
+
+### Git
+
+Aqui vou falar sobre Git.
+
+`git init`, `git status`, `git add [file(s)]`, `git commit -m [msg]`, `git log`.
+
+
 
 
 
@@ -130,7 +157,7 @@ Abra novamento o arquivo `index.html` e vamos inserir algumas *tags* nele:
             <h1>Meu primeiro HTML.</h1>
             <p>Seja bem-vindo ao meu primeiro HTML.</p>
         </main>
-    
+
         <footer>
             <small>&copy; Fabrício Silva</small>
         </footer>
