@@ -186,3 +186,97 @@ JavaScript
 ----------
 
 JavaScript é uma linguagem de programação.
+
+### Test-Driven Development
+
+### Jasmine
+
+Aqui vou falar de Jasmine
+
+
+
+
+
+DOM
+----------
+
+O Modelo de Objetos do Documento.
+
+Aqui vou falar sobre DOM.
+
+
+
+
+
+jQuery
+----------
+
+Aqui vou falar de jQuery.
+
+
+
+
+
+AngularJS
+----------
+
+Aqui vou falar de AngularJS.
+
+
+
+
+
+Desenvolvimento Back-End
+----------
+
+NodeJS
+----------
+
+Aqui vou falar de NodeJS.
+
+### Test-Driven Development
+
+
+
+
+
+Express
+----------
+
+Aqui vou falar de express.
+
+
+
+
+
+SQL
+----------
+
+Aqui vou falar de SQL.
+
+
+
+
+
+MongoDB
+----------
+
+Aqui vou falar de MongoDB.
+
+
+
+
+
+Desenvolvimento Mobile
+----------
+
+Aqui vou falar sobre desenvolvimento mobile hibrido.
+
+
+
+
+
+Cordova
+----------
+
+Aqui vou falar sobre o cordova.
