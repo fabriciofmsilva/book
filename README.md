@@ -26,7 +26,9 @@ Roadmap
 
 1. A Web Moderna
 2. Como as partes trabalham juntas
-3. Lógica de Programação
+3. Fundamentos da Programação
+4. Lógica de Programação
+5. Introdução a métodos ágeis
 
 
 
@@ -44,12 +46,11 @@ Roadmap
 
 1. Acessibilidade
 2. Performance
-3. Teste (TDD)
-4. Introdução a Programação Orientada a Objetos
-5. Introdução a algoritmos e estruturas de dados
-6. Manipulação DOM (Document Object Model)
-7. DOM Traversal
-8. Usando repositórios e compartilhando código
+3. Introdução a Programação Orientada a Objetos
+4. Introdução a algoritmos e estruturas de dados
+5. Manipulação DOM (Document Object Model)
+6. DOM Traversal
+7. Usando repositórios e compartilhando código
   
 #### 4. Ferramentas
 
@@ -104,6 +105,7 @@ Roadmap
 6. Introdução a Programação Funcional
 7. JSON & AJAX
 8. APIs do HTML5
+9. Teste de Unidade (TDD)
 
 
 
@@ -118,13 +120,15 @@ Roadmap
 
 #### 3. Conceitos
 
-1. SQL
+1. Banco de Dados & SQL
 2. Funções de Callback
 3. Node Module Patterns
-4. Teste
+4. Teste de Unidade (TDD)
 5. Node Servers
 6. CRUD
 7. Socket.io
+8. Programação Assincrona
+9. MVC BackEnd
 
 
 
@@ -145,6 +149,7 @@ Roadmap
 1. Avançando com Directivas e Serviços
 2. Client-side Authorization
 3. Testes end-to-end
+4. Banco de Dados Não Relacionais (NoSQL)
 
 
 
@@ -176,3 +181,7 @@ Roadmap
 #### 3. Conceitos
 
 #### 4. Ferramentas
+
+
+
+### Soft Skills
