@@ -26,6 +26,7 @@ Roadmap
 
 1. A Web Moderna
 2. Como as partes trabalham juntas
+3. Lógica de Programação
 
 
 
@@ -52,9 +53,10 @@ Roadmap
   
 #### 4. Ferramentas
 
-1. Bower
-2. GruntJS
-3. Yeoman
+1. Browser Developer Tools
+2. Bower
+3. GruntJS
+4. Yeoman
 
 
 
@@ -66,12 +68,19 @@ Roadmap
 
 1. HTML
 2. CSS & Pré-processadores (SASS)
-3. JavaScript & jQuery
+3. JavaScript & jQuery & D3JS
+4. SVG
 
 #### 3. Conceitos
 
-1. Web Design Responsivo
+1. Mobile First, Design Adaptativo, Design Responsivo
 2. Arquitetura CSS
+3. Técnicas de Layout com CSS
+4. Introdução Design
+5. Introdução UX
+6. Animações Web com CSS e JavaScript
+7. Boas práticas com CSS
+8. Tipografia na Web
 
 
 
@@ -94,6 +103,7 @@ Roadmap
 5. Avançando em Algoritimos 
 6. Introdução a Programação Funcional
 7. JSON & AJAX
+8. APIs do HTML5
 
 
 
@@ -114,6 +124,7 @@ Roadmap
 4. Teste
 5. Node Servers
 6. CRUD
+7. Socket.io
 
 
 
@@ -149,3 +160,19 @@ Roadmap
 #### 3. Conceitos
 
 1. Mobile App Frameworks
+
+
+
+### 8. DevOps
+
+#### 1. Configurando o ambiente
+
+#### 2. Tecnologias
+
+1. Vagrant
+2. Puppet
+3. Docker
+
+#### 3. Conceitos
+
+#### 4. Ferramentas
