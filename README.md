@@ -20,7 +20,7 @@ Roadmap
 1. HTML
 2. CSS
 3. JavaScript & jQuery
-4. HTTP 
+4. HTTP
 
 ####   3. Conceitos
 
@@ -41,7 +41,7 @@ Roadmap
 1. HTML
 2. CSS
 3. JavaScript & jQuery
-  
+
 #### 3. Conceitos
 
 1. Acessibilidade
@@ -51,7 +51,7 @@ Roadmap
 5. Manipulação DOM (Document Object Model)
 6. DOM Traversal
 7. Usando repositórios e compartilhando código
-  
+
 #### 4. Ferramentas
 
 1. Browser Developer Tools
@@ -101,7 +101,7 @@ Roadmap
 2. Arquitetura Front-End
 3. SPA (Single-Page Application)
 4. Serviços e APIs
-5. Avançando em Algoritimos 
+5. Avançando em Algoritimos
 6. Introdução a Programação Funcional
 7. JSON & AJAX
 8. APIs do HTML5
@@ -129,6 +129,7 @@ Roadmap
 7. Socket.io
 8. Programação Assincrona
 9. MVC BackEnd
+10. REST API
 
 
 
@@ -150,6 +151,8 @@ Roadmap
 2. Client-side Authorization
 3. Testes end-to-end
 4. Banco de Dados Não Relacionais (NoSQL)
+5. Usando o NPM
+6. Middlewares
 
 
 

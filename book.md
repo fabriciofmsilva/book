@@ -1,19 +1,84 @@
-Book
+Dev Book
 ==========
 
-Desenvolvimento Front-End
+
+Introdução a programação Web
+==========
+
+O objetivo deste capítulo é apresentar os conceitos básicos sobre programação Web. Introduzir algumas tecnologias, vantagens e desvantagens.
+
+
+
+Arquitetura Web
 ----------
 
-Atualmente o desenvolvimento Front-End para Web é baseado em três tecnologias, o HTML, o CSS e o JavaScript. Junto os três é possivel criar desde Web Sites até aplicações Web.
-
-Aqui vemos o primeiro conceito de separação de responsabilidades, o HTML é o responsável pela estrutura do conteudo. Já o CSS é o responsável pelo estilo do conteúdo, e o JavaScript é o responsável pelos comportamentos.
+Antes de colocarmos a mão no código é importante conhecer alguns conceitos que irão ajudar entender como as coisas funcionam.
 
 
 
+### Cliente e Servidor
+
+A arquitetura mais simples que existe na Web é a cliente/servidor.
+
+Basicamente o Internet é formada por uma rede de computadores interligados. Um computador (cliente) pode enviar uma mensagem para outro computador (servidor) através de protocolos.
+
+O protocolo mais usado na Web é HTTP (Hyper Text Transfer Protocol).
 
 
-Editores de Texto
+
+
+Navegador -> URL -> DNS/IP -> Servidor
+
+HTTP Request e Response
+
+
+
+### Navegadores (Browser)
+
+Aqui vou falar sobre navegadores. Firefox. Chrome. Internet Explorer (EDGE). Safari.
+
+
+
+### Servidor
+
+Aqui vou falar sobre servidores.
+
+- Conteúdo estático x dinâmico.
+- Ciclo de vida de informações entre servidor e cliente (escopo)
+- Linguagens
+- Servidores Web
+- Servidores de Aplicação
+
+
+
+
+
+Configurando o Ambiente (Ferramentas)
 ----------
+
+Boas ferramentas são importante para ajudar você a solucionar os problemas.
+
+Para desenvolver para Web precisamos de duas ferramentas básicas:
+
+- Navegador para debugar HTML, CSS e JavaScript
+- Um bom Editor de texto
+
+
+### Navegadores
+
+Aqui vamos configurar os navegadores.
+
+
+#### Debugando uma página Web
+
+- View source
+- Inspect Element
+- Atualizando valores
+- JavaScript Console
+
+
+
+### Editores de Texto
 
 Um editor de texto é onde você vai passar a maior parte do tempo. Depois do seu conhecimento e experiência para mim é a ferramenta mais importante. Ter dominio das *features* que um editor de texto tem é fundamental para melhorar a produtividade de qualquer desenvolvedor.
 
@@ -23,42 +88,66 @@ No mercado temos muitas opções de editores de texto.
 
 
 
-### Sobre os WYSIWYG
+#### Sobre os WYSIWYG
 
 Existem alguns editores do tipo <abbr title="What You See Is What You Get">WYSIWYG</abbr>, mas vamos evitar eles.
 
 
 
-### Sobre IDE
+#### Sobre IDE
 
 Por enquanto vamos evitar o uso de IDEs também.
 
 
-### Vim e Emacs
+#### Vim e Emacs
 
 Aqui vou falar sobre editores de linha de commando.
 
 
+#### Sublime Text
+
+- Sintaxe highlight
+- Match Parenthesis
+- Replace All
 
 
 
-Linha de Comando (CLI -> Command-line Interface)
-----------
+### Linha de Comando (CLI -> Command-line Interface)
 
 `pwd`, `ls`, `ls -a`, `mkdir [dir]`, `cd [dir]`, `touch [file]`, `cp`, `mv`, `rmdir`, `cat`, `less`.
 
 
 
+### Controle de Versão
 
-
-Controle de Versão
-----------
-
-### Git
+#### Git
 
 Aqui vou falar sobre Git.
 
 `git init`, `git status`, `git add [file(s)]`, `git commit -m [msg]`, `git log`.
+
+
+
+#### GitHub
+
+Aqui vou falar sobre o GitHub.
+
+
+
+
+
+HTTP
+----------
+
+Aqui vou falar sobre HTTP.
+
+- Status Code
+
+100s are informational
+200s are successes
+300s are redirection (something moved)
+400s are client errors
+500s are server errors
 
 
 
@@ -187,6 +276,35 @@ JavaScript
 
 JavaScript é uma linguagem de programação.
 
+
+
+
+
+jQuery
+----------
+
+Aqui vou falar sobre jQuery.
+
+
+
+
+
+Introdução ao desenvolvimento Front-End
+==========
+
+Atualmente o desenvolvimento Front-End para Web é baseado em três tecnologias, o HTML, o CSS e o JavaScript. Junto os três é possivel criar desde Web Sites até aplicações Web.
+
+Aqui vemos o primeiro conceito de separação de responsabilidades, o HTML é o responsável pela estrutura do conteudo. Já o CSS é o responsável pelo estilo do conteúdo, e o JavaScript é o responsável pelos comportamentos.
+
+
+
+
+
+JavaScript
+----------
+
+JavaScript é uma linguagem de programação.
+
 ### Test-Driven Development
 
 ### Jasmine
@@ -217,6 +335,28 @@ Aqui vou falar de jQuery.
 
 
 
+AJAX
+----------
+
+Aqui vou falar sobre AJAX.
+
+- Asynchronous Javascript And XML
+
+
+
+
+
+Introdução ao desenvolvimento UI/UX
+==========
+
+
+
+
+
+Introdução ao desenvolvimento JavaScript
+==========
+
+
 AngularJS
 ----------
 
@@ -226,8 +366,8 @@ Aqui vou falar de AngularJS.
 
 
 
-Desenvolvimento Back-End
-----------
+Introdução ao desenvolvimento JavaScript BackEnd
+==========
 
 NodeJS
 ----------
@@ -235,15 +375,6 @@ NodeJS
 Aqui vou falar de NodeJS.
 
 ### Test-Driven Development
-
-
-
-
-
-Express
-----------
-
-Aqui vou falar de express.
 
 
 
@@ -258,6 +389,19 @@ Aqui vou falar de SQL.
 
 
 
+Introdução ao desenvolvimento FullStack com MEAN
+==========
+
+
+Express
+----------
+
+Aqui vou falar de express.
+
+
+
+
+
 MongoDB
 ----------
 
@@ -267,8 +411,8 @@ Aqui vou falar de MongoDB.
 
 
 
-Desenvolvimento Mobile
-----------
+Introdução ao desenvolvimento Mobile Hídrido
+==========
 
 Aqui vou falar sobre desenvolvimento mobile hibrido.
 
@@ -280,3 +424,31 @@ Cordova
 ----------
 
 Aqui vou falar sobre o cordova.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
