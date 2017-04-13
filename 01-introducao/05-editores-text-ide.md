@@ -9,12 +9,44 @@ No mercado temos muitas opções de editores de texto.
 
 | Editor | Custo | Open Source |  
 | --- | --- | --- | 
-| [Sublime Text](https://www.sublimetext.com/) | Pago | Não |
 | [Atom](https://atom.io/) | Free | Sim |
 | [Brackets](http://brackets.io/) | Free | Sim |
+| [Sublime Text](https://www.sublimetext.com/) | Pago | Não |
 | [Visual Studio Code](https://code.visualstudio.com/) | Free | Sim |
-| [vim](http://www.vim.org/) | Free | Sim |
 | [Emacs](https://www.gnu.org/software/emacs/) | Free | Sim |
+| [vim](http://www.vim.org/) | Free | Sim |
+
+
+### Atom
+
+Aqui vou falar sobre o Atom.
+
+
+### Brackets
+
+Aqui vou falar sobre o Brackets.
+
+
+### Sublime Text
+
+- Sintaxe highlight
+- Match Parenthesis
+- Replace All
+
+
+### Visual Studio Code
+
+Aqui vou falar sobre o Visual Studio Code.
+
+
+### Emacs
+
+Aqui vou falar sobre o Emacs.
+
+
+### vim
+
+Aqui vou falar sobre o vim.
 
 
 
@@ -24,30 +56,49 @@ Sobre os WYSIWYG
 Existem alguns editores do tipo <abbr title="What You See Is What You Get">WYSIWYG</abbr>, mas vamos evitar eles.
 
 
+### Dreamweaver
+
+Nunca use!
+
+
 
 Sobre IDE
 ----------
 
+IDE -> Integrated Development Environment (Ambiente de Desenvolvimento Integrado).
+
+Algumas caracteristicas que uma IDE pode ter:
+
+- Editor
+- Compilador (compiler)
+- Linker
+- Depurador (debugger)
+- Modelagem (modeling)
+- Geração de código
+- Distribuição (deploy)
+- Testes Automatizados (automated tests)
+- Refatoração (refactoring)
+
 Por enquanto vamos evitar o uso de IDEs também.
 
 
+### Android Studio
 
-vim
-----------
-
-Aqui vou falar sobre editores de linha de commando.
+Sobre o Android Studio.
 
 
+### Eclipse
 
-Sublime Text
-----------
-
-- Sintaxe highlight
-- Match Parenthesis
-- Replace All
+Sobre o Eclipse.
 
 
+### Visual Studio
 
-Visual Studio Code
-----------
+Sobre o Visual Studio.
+
+
+### xcode
+
+Sobre o xcode.
+
 
