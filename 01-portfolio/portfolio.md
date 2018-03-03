@@ -1,26 +1,42 @@
 Portfólio
-==========
+===
 
 Quando se fala em aprender alguma coisa, eu gosto muito de fazer algo para aprender. Acredito muito nisso, é fazendo que aprendemos. Porém, existe também a necessidade de conhecermos a teoria, pois ele irá formar a base do nosso conhecimento.
 
 Pensando nisso decidi criar um livro com projetos para ensinar você a desenvolver produtos, mais especificamente softwares e no meio do caminho explicar a teoria necessária para entender aquele tópico.
 
-Para o nosso primeiro produto vamos criar um site que serivá como portfólio, onde você poderá exibir os seus trabalhos.
+Para o nosso primeiro produto vamos criar um site que serivá como portfólio, que nada mais é um website onde você poderá exibir os seus trabalhos.
 
-Antes de começarmos a por a mão na massa será necessário aprender um pouco sobre como funciona o processo que vamos utilizar.
+Além da premissa de fazer as coisas o mais próximo da prática, vou fazer as coisas o mais simple possível. Por isso, na maioria das vezes vamos fazer aquilo que é mais simples para resolver os problemas apresentados.
+
+Outro ponto é procurar ser orientado a problemas. Basicamente vou expor um problema e depois apresentar a forma de resolver ele. Assim vamos ter uma motivação para o que estamos fazendo. Também vou apresentar as coisas conforme a necessidade.
+
+Antes de começarmos a por a mão na massa esse é o processo que vamos utilizar:
+
+1. Ideia
+2. Briefing
+3. Pesquisa
+4. Requisitos
+5. Prototipação (Wireframe)
+6. Construção do layout
+7. Implementação do layout e requisitos (Programação)
+9. Construir (build) (?) Acredito que inicialmente não teremos esse passo
+10. Teste (Automatizado ou manual?)
+11. Implantação/Lançamento (Deploy)
+
 
 Ideia
+---
+
+Como falado anteiormente já temos a ideia do que vamos fazer criar um web site que irá servir como portfólio.
+
+[TODO: Falar mais sobre a ideia]
+
+
 Briefing
-Pesquisa
-Wireframe
-Layout
-Construção (Programação)
-Teste
-Lançamento (Deploy)
+---
 
-Já temos a ideia do que vamos fazer criar um web site que irá servir como portfólio.
-
-O briefing nada mais é que um documento que descreve aquilo que precisamos fazer, ele seria a ideia colocada no papel. Mais pra frente vamos incrementar um pouco mais o briefing possivelmente transformando ele num documento de projeto.
+O briefing nada mais é que um documento que descreve aquilo que precisamos fazer, ele seria a ideia colocada no papel. Mais pra frente vamos incrementar um pouco mais o briefing possivelmente transformando ele num documento de projeto mais elaborado.
 
 Para facilitar vamos trabalhar com um cliente: o João das Neves (você pode trocar o João por você mesmo).
 
@@ -36,11 +52,34 @@ Como o cliente não tem muito dinheiro vamos criar um site simples com HTML e CS
 
 Aqui você deve parar e criar o briefing do seu portfólio.
 
+
+Pesquisa
+---
+
 Depois que criamos o nosso briefing vamos fazer uma pesquisa no Google e encontrar alguns portfólio de web designers para servir de inspiração.
 
 Aqui você deve parar e fazer uma pesquisa.
 
-Agora que fizemos algumas pesquisas já podemos começar a criar os nossos primeiros esboços.
+Agora que fizemos algumas pesquisas já podemos começar a criar algumas histórias de usuários.
+
+
+Requisitos
+---
+
+Os briefings são mais comuns em agências, se você for trabalhar em uma fábrica de software é mais provável que não vejo um. Mesmo assim existe algo um pouco semelhante mas mais estruturado que é o levantamento dos requisitos do sistema/software, ou seja, aquilo que ele precisa fazer para satisfazer o cliente.
+
+Esses requisitos podem ser levantados de várias formas utilizando algumas técnicas.
+
+Podemos classificar os requisitos de duas formas, os funcionais e os não funcionais, além das regras de negócio.
+
+Para nosso caso vamos crias histórias do usuário (user stories). As user stories são relativamente fáceis de criar e não exigem um documento extenso.
+
+- [User Stories – Descrição de requisitos que humanos entendem](http://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
+
+
+
+Prototipação (Wireframe)
+---
 
 Antes de criarmos os nosso wireframe em um programa, podemos fazer alguns sketches (rascunhos) no papel. Eu acredito que o papel ajuda a soltar a criativadade.
 
@@ -58,6 +97,10 @@ Também é possível criar wireframes navegáveis, assim o usuário poderá inte
 
 Com o wireframe aprovado e testado podemos partir para o layout.
 
+
+Layout
+---
+
 Aqui nosso wireframe ganhará cores e vida.
 
 Nessa fase é importante usarmos algum programa para gerar o nosso layout. É comum usar o Photoshop, o Illustrator, Sketch, entre outros. Um programa que foi muito popular é o Fireworks, ainda existem pessoas que gostam de usar ele.
@@ -65,6 +108,10 @@ Nessa fase é importante usarmos algum programa para gerar o nosso layout. É co
 Porém existe uma abordagem alternativa que podemos seguir aqui, você pode criar o layout já com código no navegador. Usando HTML e CSS.
 
 Aqui você deve parar e criar o seu layout.
+
+
+Implementando o layout
+---
 
 Antes de cairmos no código vamos aprender o que é o tal do HTML e CSS que foi falado anteriormente.
 
@@ -82,6 +129,10 @@ Você pode pensar o HTML como a estrutura de uma casa, já o CSS é toda a parte
 
 Aqui você deve parar e criar o seu código.
 
+
+Teste
+---
+
 Apesar de utilizarmos uma técnica de criar um pouco de código e testar, depois que finalizamos o nosso código é bom fazermos um teste mais geral, vamos chamar ele aqui de teste de sistema (apesar se não ser um).
 
 Como forma de nos acostumarmos com testes vamos fazer alguns testes de aceitação.
@@ -89,6 +140,10 @@ Como forma de nos acostumarmos com testes vamos fazer alguns testes de aceitaç�
 Podemos também pedir para que outras pessoas testem o nosso site novamente, como fizemos na parte do wireframe.
 
 Agora que finalizamos o nosso trabalho como é que vamos fazer para as outras pessoas verem ele?
+
+
+Implantação/Lançamento (Deploy)
+---
 
 Para isso vamos precisar de um servidor e um domínio registrado.
 
